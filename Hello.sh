@@ -1,2 +1,0 @@
-echo "Good Day "
-
